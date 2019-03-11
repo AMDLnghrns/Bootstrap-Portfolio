@@ -62,3 +62,10 @@ footer {
     color: #ffffff;
     font-size: 13px;
 } */
+
+@media screen and (max-width: 980px) {
+    html {
+        overflow-x: scroll;
+        overflow: hidden;
+    }
+}
