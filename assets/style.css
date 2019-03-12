@@ -54,6 +54,10 @@ footer {
     transform: rotate(180deg)
 }
 
+.nav-link:hover {
+    color: red
+}
+
 @media screen and (max-width: 980px) {
     html {
         overflow-x: scroll;
