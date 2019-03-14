@@ -53,7 +53,9 @@ footer {
 .Broken_Ankle {
     transform: rotate(180deg)
 }
-
+.fab_fa-github {
+    height: 200px;
+}
 .nav-link:hover {
     color: red
 }
